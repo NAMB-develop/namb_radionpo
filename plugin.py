@@ -22,7 +22,7 @@ def load_channels():
     channels=[
         {"name":"Radio 1","url":"http://icecast.omroep.nl/radio1-bb-mp3","nowurl":"http://radioplayer.npo.nl/data/radiobox2/nowonair/1.json"},
         {"name":"Radio 2","url":"http://icecast.omroep.nl/radio2-bb-mp3","nowurl":"http://radioplayer.npo.nl/data/radiobox2/nowonair/2.json"},
-        {"name":"Radio 3","url":"http://icecast.omroep.nl/radio3-bb-mp3","nowurl":"http://radioplayer.npo.nl/data/radiobox2/nowonair/3.json"},
+        {"name":"Radio 3","url":"http://icecast.omroep.nl/3fm-bb-mp3","nowurl":"http://radioplayer.npo.nl/data/radiobox2/nowonair/3.json"},
         {"name":"Radio 4","url":"http://icecast.omroep.nl/radio4-bb-mp3","nowurl":"http://radioplayer.npo.nl/data/radiobox2/nowonair/4.json"},
         {"name":"Radio 5","url":"http://icecast.omroep.nl/radio5-bb-mp3","nowurl":"http://radioplayer.npo.nl/data/radiobox2/nowonair/5.json"},
         {"name":"Radio 6","url":"http://icecast.omroep.nl/radio6-bb-mp3","nowurl":"http://radioplayer.npo.nl/data/radiobox2/nowonair/6.json"},
